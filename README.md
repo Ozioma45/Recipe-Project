@@ -2,6 +2,8 @@
 
 This repository contains a basic HTML and CSS project from the Odin Project curriculum. The project is designed to practice foundational web development skills by creating a simple recipe website.
 
+live preview-([click here](https://ozioma45.github.io/Recipe-Project/))
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
